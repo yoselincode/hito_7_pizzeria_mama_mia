@@ -58,12 +58,6 @@ function Cart() {
       >
         Pagar
       </button>
-
-      {!token && (
-        <p className="text-danger mt-2">
-          Debes iniciar sesión para poder pagar.
-        </p>
-      )}
     </div>
   );
 }
