@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "name": "Cuatro Quesos",
+    "price": 7000,
+    "ingredients": ["mozzarella", "gorgonzola", "parmesano", "provolone"],
+    "img": "https://recetinas.com/wp-content/uploads/2018/04/pizza-cuatro-quesos.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Vegetariana",
+    "price": 6200,
+    "ingredients": ["mozzarella", "champiñones", "pimientos", "aceitunas"],
+    "img": "https://www.institucionalcolombia.com/wp-content/uploads/2023/01/Pizza_vegetariana.jpg",
+    "quantity": 1
+  }
+]

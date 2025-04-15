@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Napolitana",
+    "price": 5950,
+    "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
+    "img": "https://d320djwtwnl5uo.cloudfront.net/article/8metlvp345_portada-pizza.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "price": 6500,
+    "ingredients": ["mozzarella", "pepperoni", "salsa de tomate"],
+    "img": "https://static.wixstatic.com/media/597497_39dfa709d3d845eeaf43eb692e93b31b~mv2.jpg/v1/fill/w_6240,h_4160,al_c,q_90/Pepperoni%20Pizza_1_compressed.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cuatro Quesos",
+    "price": 7000,
+    "ingredients": ["mozzarella", "gorgonzola", "parmesano", "provolone"],
+    "img": "https://recetinas.com/wp-content/uploads/2018/04/pizza-cuatro-quesos.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vegetariana",
+    "price": 6200,
+    "ingredients": ["mozzarella", "champiñones", "pimientos", "aceitunas"],
+    "img": "https://www.institucionalcolombia.com/wp-content/uploads/2023/01/Pizza_vegetariana.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hawaiana",
+    "price": 6800,
+    "ingredients": ["mozzarella", "piña", "jamón", "salsa de tomate"],
+    "img": "https://bitacorasgratis.com/wp-content/uploads/2021/09/1533025888.6461.jpg"
+  }
+]
